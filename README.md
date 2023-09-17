@@ -2,7 +2,6 @@
 
 This is an introduction on how to use Bayesian Statistics to run a binary outcome A/B test. The notebook **Intro_to_Bayesian_Stats.ipynb** uses PyMC4 for generating samples and probability.  Included in this notebook is some of the most commonly used visualizations for an A/B test.
 
-Additionally, a packaged called **RISE** is included for presenting notebooks using reveal.js-based slideshows in Jupyter Notebook.  For more info, see https://pypi.org/project/rise/.  You can skip installing this package if you do not need to present your code in a slide format.
 
 ## Setup
 
@@ -59,4 +58,4 @@ Many of the techniques and code came from the Causal Inference Book Club, https:
 
 Thanks to Ravin Kumar for his enthusiastic attitude towards causual inferencing.  Check out his book with his co-authors: https://bayesiancomputationbook.com/welcome.html 
 
-And, the text book that inspired us all: https://mixtape.scunning.com/ and https://github.com/scunning1975/mixtape
+And, one of many text books that inspired me is here: https://mixtape.scunning.com/ and https://github.com/scunning1975/mixtape
